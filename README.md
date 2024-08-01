@@ -4,8 +4,8 @@ Curious developer turning coffee into code. Passionate about frontend technologi
 
 ## Projects
 
-- **[Project 1](https://github.com/Bartek404/NBPHistoryRates-React)**: React currency converter
-- **[Project 2](https://github.com/Bartek404/FairShare-v2)**: Household budget calculator
+- **[NBP History Rates Converter](https://github.com/Bartek404/NBPHistoryRates-React)**:  React currency converter
+- **[Fairshare](https://github.com/Bartek404/FairShare-v2)**:  Household budget calculator
 
 ## Connect
 
